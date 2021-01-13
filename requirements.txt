@@ -1,0 +1,14 @@
+Pip installations required were:
+
+1. web3
+2. bit
+3. eth_account
+4. dotenv
+
+Other requirements
+
+1. hd-wallet-derive
+2. php
+3. Mycrypto application
+4. Running ganache or other digital wallets in local host
+5. Running the blockchain for ETH
