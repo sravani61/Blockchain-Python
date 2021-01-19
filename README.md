@@ -85,4 +85,10 @@ Transaction status for ETH
 ![ETH transaction status](Images/transaction_ETH_status.PNG)
 
 
+Installations:
+
+[Bit/Web3 Install Guide](Blockchain_TX_Install_Guide.md)
+
+[HD-Wallet-Derive Install Guide](HD_Wallet_Derive_Install_Guide.md)
+
 
